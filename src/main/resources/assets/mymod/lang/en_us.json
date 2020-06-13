@@ -1,0 +1,11 @@
+{
+  "item.mymod.keyitem": "Key Item",
+  "block.mymod.powergen": "Energy Generator",
+  "block.mymod.blockframe": "Block Frame",
+  "item.mymod.metalrod": "Metal Rod",
+  "item.mymod.metalgear": "Metal Gear",
+  "entity.mymod.weirdmobegg": "Metal Gear",
+
+  "_comment": "Creative Tabs",
+  "itemGroup.mymod": "Mod"
+}

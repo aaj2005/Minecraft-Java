@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "mymod:block/powergen",
+    "down": "mymod:block/powergen",
+    "up": "mymod:block/powergen",
+    "east": "mymod:block/powergen",
+    "west": "mymod:block/powergen",
+    "north": "mymod:block/powergen_powered",
+    "south": "mymod:block/powergen"
+  }
+}

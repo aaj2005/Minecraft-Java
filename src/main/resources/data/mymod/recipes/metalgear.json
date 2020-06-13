@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    "x#x",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "mymod:metalrod"
+    },
+    "#": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "mymod:metalgear",
+    "count": 2
+  }
+}

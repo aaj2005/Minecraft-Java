@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#x#",
+    "x x",
+    "#x#"
+  ],
+  "key": {
+    "x": {
+      "item": "mymod:metalgear"
+    },
+    "#": {
+      "item": "mymod:metalrod"
+    }
+  },
+  "result": {
+    "item": "mymod:blockframe"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mymod",
+  "pattern": [
+    "xxx",
+    "*#*",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:iron_ingot"
+    },
+    "*": {
+      "item": "minecraft:redstone"
+    },
+    "#": {
+      "item": "mymod:blockframe"
+    }
+  },
+  "result": {
+    "item": "mymod:powergen"
+  }
+}

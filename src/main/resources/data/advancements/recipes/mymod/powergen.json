@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "mymod:powergen"
+    ]
+  },
+  "criteria": {
+    "blockframe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mymod:blockframe"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "mymod:powergen"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "blockframe",
+      "has_the_recipe"
+    ]
+  ]
+}
